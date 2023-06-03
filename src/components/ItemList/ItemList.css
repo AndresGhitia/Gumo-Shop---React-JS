@@ -1,0 +1,22 @@
+.Filas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+.Fila1 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+  
+.Fila2 {
+  display: flex;
+  justify-content: center;
+}
+  
+.Columna {
+  flex: 1;
+  margin: 0 10px;
+}
+  

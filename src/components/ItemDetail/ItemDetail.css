@@ -1,0 +1,74 @@
+.Box{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    height: 375px;
+}
+
+.BoxDetail{
+    background-color: #ffffff;
+    border-radius: 5px;
+    width: 500px;
+    margin-left: 15px;
+}
+
+.PedalSize{
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #ffffff;
+}
+
+.TextName{
+    font-size: 45px;
+    padding-left: 10px;
+    color: #668ab5;
+    margin: 0;
+}
+
+.TextDescription{
+    padding-left: 15px;
+    margin: 0;
+}
+
+.TextEffect{
+    padding: 15px;
+    font-style: oblique;
+    font-size: 15px;
+    text-align: left;
+    font-weight: 300;
+    letter-spacing: .02em;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.TextPrice{
+    color: #ff5501;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 15px; 
+    margin: 0;
+}
+
+.TextStock{
+    padding-left: 15px;
+    font-size: 12px;
+}
+
+.ButtonHome{
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    margin: auto;
+    width: 10%;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    padding: 0.5rem 0.8rem;
+    cursor: pointer;
+ }
+
+.ButtonHome:hover{
+    background-color: goldenrod;
+}

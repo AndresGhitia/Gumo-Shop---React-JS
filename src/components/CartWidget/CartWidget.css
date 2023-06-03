@@ -1,0 +1,16 @@
+.ContainerCart{
+    width: 10%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.CarritoLogo{
+    background-color:goldenrod;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 5px;
+    text-decoration: none;
+
+}
